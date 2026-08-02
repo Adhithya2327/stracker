@@ -5,12 +5,20 @@ LLM for sentiment classification and impact summaries, stores it in
 Postgres/pgvector via Supabase, and serves it through a Next.js
 dashboard.
 
+
+
 > **Portfolio project** — built to demonstrate an end-to-end AI +
 > full-stack pipeline, not a live financial product. News is processed
 > in batches via a manual script, not streamed in real time.
 
 <!-- Add a screenshot or short GIF of the dashboard here before publishing.
      e.g. ![Stracker dashboard](docs/screenshot-home.png) -->
+
+
+![Stracker Dashboard](docs/screenshot-home.png)
+![Stracker Dashboard](docs/screenshot-home2.png)
+![Stracker Watchlist](docs/screenshot-watchlist.png)
+![Stracker Watchlist](docs/screenshot-watchlist2.png)
 
 ## What it does
 
