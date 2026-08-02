@@ -1,5 +1,7 @@
 # Stracker — Nifty 50 News Sentiment Tracker
 
+**Live Demo:** [https://stracker-inky.vercel.app](https://stracker-inky.vercel.app)
+
 A full-stack project that ingests financial news, runs it through an
 LLM for sentiment classification and impact summaries, stores it in
 Postgres/pgvector via Supabase, and serves it through a Next.js
