@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+stracker-web/node_modules/
+
+# Env files (never commit real secrets)
+.env
+.env.local
+.env.*.local
+!.env.example
+!.env.local.example
+
+# Next.js build output
+.next/
+stracker-web/.next/
+out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Temporary Office lock files (e.g. ~$file.docx)
+~$*

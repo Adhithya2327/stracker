@@ -1,0 +1,21 @@
+{
+  "name": "stracker-news-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stracker news ingestion pipeline: sentiment analysis + embeddings + Supabase upsert.",
+  "type": "module",
+  "scripts": {
+    "process-news": "tsx scripts/process_news.ts",
+    "list-models": "tsx scripts/list_models.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^0.14.0",
+    "@supabase/supabase-js": "^2.45.4",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.15",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}

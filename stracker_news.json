@@ -1,0 +1,704 @@
+[
+  {
+    "id": 1,
+    "title": "TCS Flags Cautious Client Spending as Q1FY27 Revenue Growth Slows",
+    "content": "Tata Consultancy Services reported softer-than-expected revenue growth for the June quarter, citing delayed decision-making by BFSI clients in North America amid macro uncertainty.",
+    "source": "Economic Times",
+    "published_at": "2026-07-11T07:20:00Z",
+    "ticker_symbol": "TCS",
+    "sector": "Technology",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 2,
+    "title": "Infosys Raises FY27 Revenue Guidance on Strong Deal Wins",
+    "content": "Infosys lifted its full-year revenue growth guidance after posting a large deal TCV of over $3 billion in Q1, led by demand for AI-led digital transformation services.",
+    "source": "Mint",
+    "published_at": "2026-07-17T09:45:00Z",
+    "ticker_symbol": "INFY",
+    "sector": "Technology",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 3,
+    "title": "Wipro Wins Multi-Year IT Outsourcing Deal from European Insurer",
+    "content": "Wipro announced a large-scale application modernization and cloud migration contract with a major European insurance group, expected to ramp up revenue from Q3.",
+    "source": "Business Standard",
+    "published_at": "2026-07-15T11:00:00Z",
+    "ticker_symbol": "WIPRO",
+    "sector": "Technology",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 4,
+    "title": "HCLTech Q1 Profit Beats Estimates on Engineering Services Strength",
+    "content": "HCLTech posted a better-than-expected quarterly profit, driven by robust growth in its engineering and R&D services segment even as software services remained muted.",
+    "source": "Livemint",
+    "published_at": "2026-07-14T06:30:00Z",
+    "ticker_symbol": "HCLTECH",
+    "sector": "Technology",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 5,
+    "title": "Tech Mahindra Shares Slide After Weak Telecom Vertical Show",
+    "content": "Tech Mahindra's stock fell over 4% after the company reported continued weakness in its communications vertical, its largest revenue contributor.",
+    "source": "CNBC-TV18",
+    "published_at": "2026-07-13T10:15:00Z",
+    "ticker_symbol": "TECHM",
+    "sector": "Technology",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 6,
+    "title": "LTIMindtree Signs $150M AI Modernization Deal with US Retailer",
+    "content": "LTIMindtree said it has bagged a multi-year agreement to overhaul a leading US retail chain's data and AI infrastructure, its largest deal signed this fiscal year.",
+    "source": "Financial Express",
+    "published_at": "2026-07-16T08:10:00Z",
+    "ticker_symbol": "LTIM",
+    "sector": "Technology",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 7,
+    "title": "Reliance Industries Jio Platforms Crosses 500 Million Subscriber Mark",
+    "content": "Reliance Industries said its telecom arm Jio has crossed the 500-million subscriber milestone, aided by strong 5G adoption and rising data consumption across India.",
+    "source": "Economic Times",
+    "published_at": "2026-07-20T12:00:00Z",
+    "ticker_symbol": "RELIANCE",
+    "sector": "Energy",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 8,
+    "title": "Reliance Retail Plans Aggressive Store Expansion in Tier-2 Cities",
+    "content": "Reliance Retail announced plans to open over 1,000 new outlets across smaller Indian cities this fiscal year as part of its omnichannel growth strategy.",
+    "source": "Moneycontrol",
+    "published_at": "2026-07-09T10:40:00Z",
+    "ticker_symbol": "RELIANCE",
+    "sector": "Energy",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 9,
+    "title": "ONGC Reports Higher Output as New Offshore Fields Ramp Up",
+    "content": "Oil and Natural Gas Corporation reported a rise in crude output for the quarter as production from its KG basin deepwater fields continued to scale up.",
+    "source": "Business Standard",
+    "published_at": "2026-07-18T05:50:00Z",
+    "ticker_symbol": "ONGC",
+    "sector": "Energy",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 10,
+    "title": "BPCL Margins Squeezed by Volatile Crude Oil Prices",
+    "content": "Bharat Petroleum Corporation reported thinner refining margins for the quarter, as elevated crude oil prices weighed on profitability despite steady fuel demand.",
+    "source": "Reuters India",
+    "published_at": "2026-07-19T09:05:00Z",
+    "ticker_symbol": "BPCL",
+    "sector": "Energy",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 11,
+    "title": "Coal India Output Rises as Monsoon Disruption Eases",
+    "content": "Coal India reported a sequential improvement in production and dispatches after early monsoon rains had disrupted mining operations in eastern India.",
+    "source": "The Hindu BusinessLine",
+    "published_at": "2026-07-08T07:30:00Z",
+    "ticker_symbol": "COALINDIA",
+    "sector": "Energy",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 12,
+    "title": "HDFC Bank Q1 Net Profit Rises on Steady Loan Growth",
+    "content": "HDFC Bank reported a rise in quarterly net profit, supported by healthy growth in retail and commercial loans, though deposit mobilisation remained a key focus area.",
+    "source": "Economic Times",
+    "published_at": "2026-07-19T06:00:00Z",
+    "ticker_symbol": "HDFCBANK",
+    "sector": "Banking",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 13,
+    "title": "ICICI Bank Asset Quality Improves, Gross NPA Falls Below 2%",
+    "content": "ICICI Bank reported an improvement in asset quality for the June quarter, with gross non-performing assets declining as recoveries outpaced fresh slippages.",
+    "source": "Mint",
+    "published_at": "2026-07-19T07:15:00Z",
+    "ticker_symbol": "ICICIBANK",
+    "sector": "Banking",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 14,
+    "title": "SBI Plans Fresh Capital Raise to Support Credit Growth",
+    "content": "State Bank of India's board approved plans to raise fresh equity capital during the fiscal year to support its growing loan book and maintain capital adequacy.",
+    "source": "Business Standard",
+    "published_at": "2026-07-12T08:20:00Z",
+    "ticker_symbol": "SBIN",
+    "sector": "Banking",
+    "category": "STOCK_NEWS"
+  },
+
+  {
+    "id": 15,
+    "title": "Kotak Mahindra Bank Shares Rise on Strong Deposit Growth",
+    "content": "Kotak Mahindra Bank's stock gained after the lender reported robust growth in current and savings account deposits, easing concerns over funding costs.",
+    "source": "Moneycontrol",
+    "published_at": "2026-07-21T09:30:00Z",
+    "ticker_symbol": "KOTAKBANK",
+    "sector": "Banking",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 16,
+    "title": "Axis Bank Flags Elevated Provisions on Unsecured Loan Stress",
+    "content": "Axis Bank reported higher provisions for the quarter due to continued stress in its unsecured retail loan portfolio, denting overall profitability.",
+    "source": "CNBC-TV18",
+    "published_at": "2026-07-17T10:50:00Z",
+    "ticker_symbol": "AXISBANK",
+    "sector": "Banking",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 17,
+    "title": "IndusInd Bank Stock Rallies on Management Stability Signals",
+    "content": "Shares of IndusInd Bank rose after the lender reaffirmed leadership continuity and outlined a roadmap to rebuild investor confidence following past governance concerns.",
+    "source": "Livemint",
+    "published_at": "2026-07-10T11:10:00Z",
+    "ticker_symbol": "INDUSINDBK",
+    "sector": "Banking",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 18,
+    "title": "Bajaj Finance Q1 AUM Growth Beats Street Estimates",
+    "content": "Bajaj Finance reported robust growth in assets under management for the June quarter, driven by strong demand across consumer durables and personal loan segments.",
+    "source": "Financial Express",
+    "published_at": "2026-07-22T06:45:00Z",
+    "ticker_symbol": "BAJFINANCE",
+    "sector": "Financial Services",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 19,
+    "title": "Bajaj Finserv Expands Insurance Distribution Network",
+    "content": "Bajaj Finserv announced an expansion of its insurance distribution footprint into rural and semi-urban markets to widen its retail customer base.",
+    "source": "Economic Times",
+    "published_at": "2026-07-06T09:00:00Z",
+    "ticker_symbol": "BAJAJFINSV",
+    "sector": "Financial Services",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 20,
+    "title": "Shriram Finance Reports Steady Growth in Vehicle Financing Book",
+    "content": "Shriram Finance posted steady growth in its commercial vehicle financing portfolio, supported by resilient demand from the used-vehicle segment.",
+    "source": "Business Standard",
+    "published_at": "2026-07-07T08:40:00Z",
+    "ticker_symbol": "SHRIRAMFIN",
+    "sector": "Financial Services",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 21,
+    "title": "SBI Life Insurance New Business Premium Rises on Festive Demand",
+    "content": "SBI Life Insurance reported healthy growth in new business premiums, aided by strong demand for protection and savings-linked policies ahead of the festive season.",
+    "source": "Mint",
+    "published_at": "2026-07-11T10:05:00Z",
+    "ticker_symbol": "SBILIFE",
+    "sector": "Insurance",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 22,
+    "title": "HDFC Life Shares Gain on Improved Persistency Ratios",
+    "content": "HDFC Life Insurance shares advanced after the company reported improved policy persistency ratios, indicating better customer retention across its product suite.",
+    "source": "Moneycontrol",
+    "published_at": "2026-07-12T11:25:00Z",
+    "ticker_symbol": "HDFCLIFE",
+    "sector": "Insurance",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 23,
+    "title": "Hindustan Unilever Sees Rural Demand Recovery in Q1",
+    "content": "Hindustan Unilever reported a pickup in rural volume growth for the June quarter, signalling a gradual recovery in consumption after several soft quarters.",
+    "source": "Economic Times",
+    "published_at": "2026-07-23T07:00:00Z",
+    "ticker_symbol": "HINDUNILVR",
+    "sector": "FMCG",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 24,
+    "title": "ITC Cigarette Business Faces Pressure from Higher State Taxes",
+    "content": "ITC's cigarette segment reported slower volume growth as several states raised local levies, adding to the tax burden on tobacco products.",
+    "source": "Business Standard",
+    "published_at": "2026-07-15T09:20:00Z",
+    "ticker_symbol": "ITC",
+    "sector": "FMCG",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 25,
+    "title": "Nestle India Launches New Range of Plant-Based Products",
+    "content": "Nestle India unveiled a new range of plant-based food products aimed at health-conscious urban consumers as part of its premiumisation strategy.",
+    "source": "Livemint",
+    "published_at": "2026-07-09T06:15:00Z",
+    "ticker_symbol": "NESTLEIND",
+    "sector": "FMCG",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 26,
+    "title": "Britannia Industries Raises Prices Amid Rising Input Costs",
+    "content": "Britannia Industries announced modest price hikes across its biscuit portfolio to offset rising costs of wheat flour and edible oil.",
+    "source": "CNBC-TV18",
+    "published_at": "2026-07-08T12:30:00Z",
+    "ticker_symbol": "BRITANNIA",
+    "sector": "FMCG",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 27,
+    "title": "Tata Consumer Products Expands Coffee Portfolio in Southern Markets",
+    "content": "Tata Consumer Products announced the expansion of its coffee brands into new southern Indian markets, aiming to capture a larger share of the region's coffee-drinking base.",
+    "source": "Financial Express",
+    "published_at": "2026-07-05T07:45:00Z",
+    "ticker_symbol": "TATACONSUM",
+    "sector": "FMCG",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 28,
+    "title": "Larsen & Toubro Bags Large Infrastructure Order from Middle East",
+    "content": "Larsen & Toubro announced it has secured a large engineering and construction order from a Middle Eastern client, boosting its order book for the year.",
+    "source": "Economic Times",
+    "published_at": "2026-07-16T05:30:00Z",
+    "ticker_symbol": "LT",
+    "sector": "Construction & Engineering",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 29,
+    "title": "L&T Shares Rise on Strong Order Inflow Guidance",
+    "content": "Larsen & Toubro shares gained after management reiterated confidence in double-digit order inflow growth for the current fiscal year, led by infrastructure and energy projects.",
+    "source": "Mint",
+    "published_at": "2026-07-21T08:00:00Z",
+    "ticker_symbol": "LT",
+    "sector": "Construction & Engineering",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 30,
+    "title": "UltraTech Cement Reports Volume Growth Despite Monsoon Slowdown",
+    "content": "UltraTech Cement posted modest volume growth for the quarter even as construction activity slowed in parts of the country due to heavy monsoon rains.",
+    "source": "Business Standard",
+    "published_at": "2026-07-18T10:10:00Z",
+    "ticker_symbol": "ULTRACEMCO",
+    "sector": "Cement",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 31,
+    "title": "Grasim Industries Q1 Profit Rises on Strong Paints Business Ramp-up",
+    "content": "Grasim Industries reported higher quarterly profit as its newly launched paints business gained market share faster than anticipated.",
+    "source": "Moneycontrol",
+    "published_at": "2026-07-20T09:55:00Z",
+    "ticker_symbol": "GRASIM",
+    "sector": "Cement",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 32,
+    "title": "Adani Enterprises Shares Jump on New Green Hydrogen Investment Plan",
+    "content": "Adani Enterprises announced a fresh investment plan to scale up its green hydrogen manufacturing capacity, sending its shares higher in early trade.",
+    "source": "Economic Times",
+    "published_at": "2026-07-14T11:40:00Z",
+    "ticker_symbol": "ADANIENT",
+    "sector": "Diversified",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 33,
+    "title": "Adani Ports Reports Record Cargo Volumes at Mundra Terminal",
+    "content": "Adani Ports and Special Economic Zone reported record monthly cargo throughput at its flagship Mundra port, driven by higher container and dry bulk traffic.",
+    "source": "Business Standard",
+    "published_at": "2026-07-13T06:50:00Z",
+    "ticker_symbol": "ADANIPORTS",
+    "sector": "Infrastructure",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 34,
+    "title": "Power Grid Corporation Wins Transmission Project via Tariff-Based Bidding",
+    "content": "Power Grid Corporation of India said it has won a new interstate transmission project through competitive tariff-based bidding, adding to its regulated asset base.",
+    "source": "Financial Express",
+    "published_at": "2026-07-10T07:10:00Z",
+    "ticker_symbol": "POWERGRID",
+    "sector": "Utilities",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 35,
+    "title": "NTPC Targets Higher Renewable Capacity Addition This Fiscal",
+    "content": "NTPC said it plans to significantly ramp up renewable energy capacity additions this fiscal year as part of its long-term decarbonisation roadmap.",
+    "source": "Livemint",
+    "published_at": "2026-07-06T08:25:00Z",
+    "ticker_symbol": "NTPC",
+    "sector": "Utilities",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 36,
+    "title": "JSW Steel Reports Higher Output, Flags Global Price Pressure",
+    "content": "JSW Steel reported higher quarterly output but flagged pressure on realisations due to soft global steel prices and rising imports from China.",
+    "source": "Reuters India",
+    "published_at": "2026-07-17T05:15:00Z",
+    "ticker_symbol": "JSWSTEEL",
+    "sector": "Metals",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 37,
+    "title": "Tata Steel Europe Operations Continue to Weigh on Consolidated Profit",
+    "content": "Tata Steel's consolidated profit remained under pressure as its European operations continued to post losses amid weak regional demand.",
+    "source": "Economic Times",
+    "published_at": "2026-07-16T09:35:00Z",
+    "ticker_symbol": "TATASTEEL",
+    "sector": "Metals",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 38,
+    "title": "Hindalco Industries Gains on Higher Aluminium Prices",
+    "content": "Hindalco Industries shares advanced after global aluminium prices firmed up, supporting better realisations for the company's upstream business.",
+    "source": "Mint",
+    "published_at": "2026-07-15T06:05:00Z",
+    "ticker_symbol": "HINDALCO",
+    "sector": "Metals",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 39,
+    "title": "Maruti Suzuki Reports Strong SUV Sales in June Quarter",
+    "content": "Maruti Suzuki India reported a rise in quarterly sales, led by robust demand for its SUV lineup and a recovery in rural bookings.",
+    "source": "Business Standard",
+    "published_at": "2026-07-08T10:00:00Z",
+    "ticker_symbol": "MARUTI",
+    "sector": "Automobile",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 40,
+    "title": "Tata Motors Commercial Vehicle Volumes Rebound in Q1",
+    "content": "Tata Motors reported a rebound in commercial vehicle volumes for the June quarter, aided by improved fleet utilisation and infrastructure-led demand.",
+    "source": "Moneycontrol",
+    "published_at": "2026-07-12T07:20:00Z",
+    "ticker_symbol": "TATAMOTORS",
+    "sector": "Automobile",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 41,
+    "title": "Mahindra & Mahindra Tractor Sales Rise on Good Monsoon Outlook",
+    "content": "Mahindra & Mahindra reported higher tractor sales for the month, supported by an improved monsoon outlook and expectations of a strong rabi sowing season.",
+    "source": "Financial Express",
+    "published_at": "2026-07-07T06:35:00Z",
+    "ticker_symbol": "M&M",
+    "sector": "Automobile",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 42,
+    "title": "Bajaj Auto Shares Slip on Weak Domestic Two-Wheeler Demand",
+    "content": "Bajaj Auto shares declined after the company reported softer-than-expected domestic two-wheeler sales for the quarter amid subdued entry-level demand.",
+    "source": "Livemint",
+    "published_at": "2026-07-13T09:15:00Z",
+    "ticker_symbol": "BAJAJ-AUTO",
+    "sector": "Automobile",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 43,
+    "title": "Sun Pharma Gets USFDA Nod for New Speciality Drug",
+    "content": "Sun Pharmaceutical Industries received US FDA approval for a new speciality dermatology drug, expected to strengthen its presence in the US market.",
+    "source": "Mint",
+    "published_at": "2026-07-18T07:45:00Z",
+    "ticker_symbol": "SUNPHARMA",
+    "sector": "Pharmaceuticals",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 44,
+    "title": "Dr Reddy's Labs Faces Pricing Pressure in US Generics Market",
+    "content": "Dr Reddy's Laboratories flagged continued pricing pressure in the US generics business, even as its domestic formulations segment posted healthy growth.",
+    "source": "Business Standard",
+    "published_at": "2026-07-19T08:30:00Z",
+    "ticker_symbol": "DRREDDY",
+    "sector": "Pharmaceuticals",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 45,
+    "title": "Cipla Expands Respiratory Drug Portfolio in Emerging Markets",
+    "content": "Cipla announced the launch of new respiratory therapy products across several emerging markets as part of its global expansion strategy.",
+    "source": "Financial Express",
+    "published_at": "2026-07-06T10:20:00Z",
+    "ticker_symbol": "CIPLA",
+    "sector": "Pharmaceuticals",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 46,
+    "title": "Apollo Hospitals Reports Higher Occupancy Across Key Metros",
+    "content": "Apollo Hospitals Enterprise reported improved bed occupancy rates across its metro hospitals, supported by rising demand for specialty and digital health services.",
+    "source": "Livemint",
+    "published_at": "2026-07-20T07:55:00Z",
+    "ticker_symbol": "APOLLOHOSP",
+    "sector": "Healthcare",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 47,
+    "title": "Asian Paints Loses Market Share Amid Rising Competition",
+    "content": "Asian Paints reported a decline in market share for the quarter as new entrants intensified competition in the decorative paints segment.",
+    "source": "Economic Times",
+    "published_at": "2026-07-17T09:40:00Z",
+    "ticker_symbol": "ASIANPAINT",
+    "sector": "Consumer Durables",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 48,
+    "title": "Titan Company Jewellery Sales Surge on Wedding Season Demand",
+    "content": "Titan Company reported strong growth in its jewellery division, led by robust wedding-season demand and rising gold prices boosting overall revenue.",
+    "source": "Mint",
+    "published_at": "2026-07-10T10:35:00Z",
+    "ticker_symbol": "TITAN",
+    "sector": "Consumer Durables",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 49,
+    "title": "Trent Shares Hit Record High on Zudio Store Expansion",
+    "content": "Shares of Trent scaled a fresh record high after the retailer reported strong same-store sales growth and rapid expansion of its value-fashion brand Zudio.",
+    "source": "CNBC-TV18",
+    "published_at": "2026-07-22T08:15:00Z",
+    "ticker_symbol": "TRENT",
+    "sector": "Retail",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 50,
+    "title": "Bharti Airtel Adds Postpaid Subscribers Amid 5G Push",
+    "content": "Bharti Airtel reported strong postpaid subscriber additions during the quarter as its continued 5G network rollout helped drive premium customer growth.",
+    "source": "Business Standard",
+    "published_at": "2026-07-21T07:00:00Z",
+    "ticker_symbol": "BHARTIARTL",
+    "sector": "Telecom",
+    "category": "STOCK_NEWS"
+  },
+  {
+    "id": 51,
+    "title": "RBI Holds Repo Rate at 5.25% for Third Straight Meeting",
+    "content": "The Reserve Bank of India kept its key repo rate unchanged at 5.25% and maintained a neutral policy stance, citing a weakening rupee and supply-side inflation pressures.",
+    "source": "Reuters India",
+    "published_at": "2026-07-23T05:00:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 52,
+    "title": "RBI Trims FY27 GDP Growth Forecast to 6.6% Amid Global Headwinds",
+    "content": "The Reserve Bank of India lowered its GDP growth projection for the current fiscal year, citing elevated oil prices and geopolitical tensions in the Middle East as key risks.",
+    "source": "Economic Times",
+    "published_at": "2026-07-23T05:30:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 53,
+    "title": "India's Retail Inflation Edges Higher on Food and Fuel Prices",
+    "content": "India's headline consumer price inflation rose in June, driven by higher food and fuel costs, though core inflation remained largely stable, according to government data.",
+    "source": "Business Standard",
+    "published_at": "2026-07-14T04:45:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+
+  {
+    "id": 54,
+    "title": "Government Weighs Further GST Rate Rationalisation for FMCG Goods",
+    "content": "The finance ministry is reportedly evaluating a simplification of GST slabs for everyday consumer goods, a move that could reduce prices across the FMCG sector.",
+    "source": "Mint",
+    "published_at": "2026-07-15T06:00:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 55,
+    "title": "Crude Oil Prices Climb on Middle East Supply Concerns",
+    "content": "Global crude oil prices rose for a third straight session as escalating tensions in the Middle East raised concerns over potential disruptions to regional supply.",
+    "source": "Reuters",
+    "published_at": "2026-07-22T04:20:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 56,
+    "title": "Indian Rupee Slips to Fresh Low Against US Dollar",
+    "content": "The Indian rupee weakened further against the US dollar, pressured by sustained foreign portfolio outflows and rising global crude oil prices.",
+    "source": "Business Standard",
+    "published_at": "2026-07-21T05:10:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 57,
+    "title": "India's Fiscal Deficit Narrows in First Quarter of FY27",
+    "content": "India's fiscal deficit came in lower than the year-ago period for the April-June quarter, supported by strong direct tax collections and controlled capital spending.",
+    "source": "Financial Express",
+    "published_at": "2026-07-16T04:30:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 58,
+    "title": "Parliament Passes Amendments to Income Tax Bill",
+    "content": "The Indian Parliament passed key amendments to the new Income Tax Bill, simplifying compliance norms for individual taxpayers and small businesses.",
+    "source": "The Hindu",
+    "published_at": "2026-07-18T11:00:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 59,
+    "title": "India-US Trade Deal Talks Resume Amid Tariff Uncertainty",
+    "content": "Indian and US trade negotiators resumed talks this week aimed at finalising a bilateral trade agreement, as both sides work to resolve outstanding tariff disputes.",
+    "source": "Livemint",
+    "published_at": "2026-07-19T10:15:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 60,
+    "title": "FIIs Turn Net Sellers in Indian Equities for Second Straight Month",
+    "content": "Foreign institutional investors pulled out further capital from Indian equity markets in July, extending outflows amid a stronger dollar and elevated global bond yields.",
+    "source": "Moneycontrol",
+    "published_at": "2026-07-20T06:20:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 61,
+    "title": "India's Manufacturing PMI Slips to Six-Month Low",
+    "content": "India's manufacturing purchasing managers' index eased to a six-month low in June, as new export orders softened amid global trade uncertainty.",
+    "source": "Economic Times",
+    "published_at": "2026-07-01T05:45:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 62,
+    "title": "Union Cabinet Approves New Infrastructure Investment Push",
+    "content": "The Union Cabinet approved a fresh round of infrastructure spending focused on roads, railways and port connectivity as part of the government's capex-led growth strategy.",
+    "source": "Business Standard",
+    "published_at": "2026-07-17T07:00:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "MACRO_POLITICAL"
+  },
+  {
+    "id": 63,
+    "title": "India Wins T20 Series Decider Against Sri Lanka in Thriller",
+    "content": "India clinched the final T20 international against Sri Lanka by five wickets in a last-over thriller, sealing the series 3-2 in Colombo.",
+    "source": "ESPN Cricinfo",
+    "published_at": "2026-07-20T14:30:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  },
+  {
+    "id": 64,
+    "title": "Bollywood Star's Upcoming Film Trailer Breaks YouTube Records",
+    "content": "The trailer for a much-anticipated Bollywood action film crossed 50 million views within 24 hours of its release, setting a new record for the year.",
+    "source": "Bollywood Hungama",
+    "published_at": "2026-07-19T15:00:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  },
+  {
+    "id": 65,
+    "title": "Heavy Rainfall Predicted Across Western Coastal States This Week",
+    "content": "The India Meteorological Department has issued an orange alert for several western coastal states, forecasting heavy to very heavy rainfall over the next four days.",
+    "source": "Daily News",
+    "published_at": "2026-07-24T08:00:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  },
+  {
+    "id": 66,
+    "title": "Local Civic Body Launches New Waste Management Drive",
+    "content": "A city municipal corporation announced a new door-to-door waste segregation initiative aimed at improving recycling rates across residential neighbourhoods.",
+    "source": "City Times",
+    "published_at": "2026-07-18T09:00:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  },
+  {
+    "id": 67,
+    "title": "Popular Food Delivery App Introduces New Loyalty Rewards Program",
+    "content": "A leading food delivery platform launched a revamped loyalty rewards program offering discounts and priority delivery slots for frequent users.",
+    "source": "Gadgets Now",
+    "published_at": "2026-07-16T13:20:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  },
+  {
+    "id": 68,
+    "title": "Wimbledon Champion Announces Charity Foundation Launch",
+    "content": "This year's Wimbledon singles champion announced the launch of a new charitable foundation focused on providing sports scholarships to underprivileged children.",
+    "source": "Sports Today",
+    "published_at": "2026-07-15T16:45:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  },
+  {
+    "id": 69,
+    "title": "New Web Series Tops Streaming Charts in Opening Weekend",
+    "content": "A newly released web series topped regional streaming charts in its opening weekend, drawing praise from critics for its writing and performances.",
+    "source": "Film Companion",
+    "published_at": "2026-07-21T12:10:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  },
+  {
+    "id": 70,
+    "title": "City Traffic Police Roll Out New Smart Signal System",
+    "content": "The city traffic police department began rolling out AI-based smart traffic signals at major intersections, aiming to reduce peak-hour congestion.",
+    "source": "City Times",
+    "published_at": "2026-07-22T09:30:00Z",
+    "ticker_symbol": null,
+    "sector": null,
+    "category": "GENERAL_NOISE"
+  }
+]
